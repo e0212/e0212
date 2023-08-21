@@ -23,5 +23,7 @@ Final Project PFVideojuegos-Front: Project with which the group approval of the 
 
 Contact
 ☎️ +54 1122495067
+
 📧 villaemiliano274@gmail.com
+
 🔗https://www.linkedin.com/in/emiliano-villa-686364241/
