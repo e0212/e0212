@@ -35,7 +35,6 @@ Contact me:
 
 📧 villaemiliano274@gmail.com
 
-![image](https://github.com/e0212/e0212/assets/89527425/e8abc8fd-c941-49f1-8ae5-85722d3cd594)
-
+![image](https://github.com/e0212/e0212/assets/89527425/16e98b42-3db2-4fb6-9f00-675500bc853e)
 
 🔗https://www.linkedin.com/in/emiliano-villa-686364241/
