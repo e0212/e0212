@@ -2,6 +2,11 @@ Hello! 👋
 My name is Emiliano, i'm from Argentina and i'm a Full Stack Web Developer.
 
 
+
+![imagen-para-readme-github](https://github.com/e0212/e0212/assets/89527425/99445c9b-5b43-4b5b-90c5-cb16fb131610)
+
+
+
 Currently working with:
 React || React Native
 Skills
@@ -12,8 +17,7 @@ PostgreSQL || Sequelize
 | Microsoft Visual Studio Code | Git | GitHub
 | Trello | Scrum
 
-Contact me :
-Linkedin
+
 
 
 Projects:
@@ -21,7 +25,7 @@ Individual Project IndividualProjectIndividualVideoGames: individual project wit
 
 Final Project PFVideojuegos-Front: Project with which the group approval of the final project was obtained in Henry, it was a collaborative project of 7 people.
 
-Contact
+Contact me:
 ☎️ +54 1122495067
 
 📧 villaemiliano274@gmail.com
