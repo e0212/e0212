@@ -14,7 +14,8 @@ Currently working with:
 
 || React Native
 
-Skills
+Skills:
+
 HTML5 || CSS3 || JavaScript || React.js
 Hooks | Redux  PostgreSQL y Sequelize Node.js | Express
 PostgreSQL || Sequelize
