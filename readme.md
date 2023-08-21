@@ -8,9 +8,10 @@ My name is Emiliano, i'm from Argentina and i'm a Full Stack Web Developer.
 
 
 Currently working with:
-![image](https://github.com/e0212/e0212/assets/89527425/4933570f-d75d-4e2e-940f-871c5305de68)
 
-React || React Native
+![image](https://github.com/e0212/e0212/assets/89527425/4933570f-d75d-4e2e-940f-871c5305de68)
+|| React Native
+
 Skills
 HTML5 || CSS3 || JavaScript || React.js
 Hooks | Redux  PostgreSQL y Sequelize Node.js | Express
