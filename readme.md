@@ -8,7 +8,8 @@ My name is Emiliano, i'm from Argentina and i'm a Full Stack Web Developer.
 
 
 Currently working with:
-https://camo.githubusercontent.com/32f7eabbb5fe286fbef8c54edd4e11e30722216a79c104f49289c310fb11494b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d2532333238324333343f7374796c653d666c61742d737175617265266c6f676f3d7265616374
+![image](https://github.com/e0212/e0212/assets/89527425/4933570f-d75d-4e2e-940f-871c5305de68)
+
 React || React Native
 Skills
 HTML5 || CSS3 || JavaScript || React.js
