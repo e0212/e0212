@@ -8,6 +8,7 @@ My name is Emiliano, i'm from Argentina and i'm a Full Stack Web Developer.
 
 
 Currently working with:
+https://camo.githubusercontent.com/32f7eabbb5fe286fbef8c54edd4e11e30722216a79c104f49289c310fb11494b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d2532333238324333343f7374796c653d666c61742d737175617265266c6f676f3d7265616374
 React || React Native
 Skills
 HTML5 || CSS3 || JavaScript || React.js
@@ -21,9 +22,9 @@ PostgreSQL || Sequelize
 
 
 Projects:
-Individual Project IndividualProjectIndividualVideoGames: individual project with which I passed the individual assessment stage in Henry.
+Individual Project: VideoGames: individual project with which I passed the individual assessment stage in Henry.
 
-Final Project PFVideojuegos-Front: Project with which the group approval of the final project was obtained in Henry, it was a collaborative project of 7 people.
+Final Project: PFVideojuegos-Front: Project with which the group approval of the final project was obtained in Henry, it was a collaborative project of 7 people.
 
 Contact me:
 ☎️ +54 1122495067
