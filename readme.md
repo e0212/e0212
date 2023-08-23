@@ -27,7 +27,7 @@ PostgreSQL || Sequelize
 
 
 Projects:
-Individual Project: VideoGames: individual project with which I passed the individual assessment stage in Henry.
+Individual Project: Dogs app SPA: individual project with which I passed the individual assessment stage in Henry.
 
 Final Project: PFVideojuegos-Front: Project with which the group approval of the final project was obtained in Henry, it was a collaborative project of 7 people.
 
